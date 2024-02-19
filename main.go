@@ -1,7 +1,7 @@
 package main
 
 import (
-	"study-leetcode/leetcode/mergeSortedArray"
+	"study-leetcode/leetcode/array/mergeSortedArray"
 )
 
 func main() {
