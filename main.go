@@ -1,14 +1,13 @@
 package main
 
-import (
-	"study-leetcode/leetcode/array/mergeSortedArray"
-)
+import topkfrequentelements "study-leetcode/leetcode/array/topKFrequentElements"
 
 func main() {
 	// towsum.Test()
 	// removeDuplicates.Test()
 	// searchInsertPosition.Test()
 	// plusOne.Test()
-	mergeSortedArray.Test()
+	// mergeSortedArray.Test()
+	topkfrequentelements.Test()
 
 }
