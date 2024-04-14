@@ -1,3 +1,1 @@
-package convertSortedArray2BinarySearchTree 
-
-func 
+package convertSortedArray2BinarySearchTree
