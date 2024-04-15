@@ -1,7 +1,7 @@
 package main
 
 import (
-	reversekgroup "study-leetcode/leetcode/array/25/reverseKGroup"
+	"study-leetcode/leetcode/sort"
 )
 
 func main() {
@@ -12,6 +12,7 @@ func main() {
 	// mergeSortedArray.Test()
 	// topkfrequentelements.Test()
 	// isanagram.Test()
-	reversekgroup.Test()
+	// reversekgroup.Test()
+	sort.Test()
 
 }
