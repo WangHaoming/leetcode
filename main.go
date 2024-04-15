@@ -1,7 +1,7 @@
 package main
 
 import (
-	isanagram "study-leetcode/leetcode/array/242/isAnagram"
+	reversekgroup "study-leetcode/leetcode/array/25/reverseKGroup"
 )
 
 func main() {
@@ -11,6 +11,7 @@ func main() {
 	// plusOne.Test()
 	// mergeSortedArray.Test()
 	// topkfrequentelements.Test()
-	isanagram.Test()
+	// isanagram.Test()
+	reversekgroup.Test()
 
 }
