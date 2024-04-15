@@ -1,6 +1,8 @@
 package main
 
-import topkfrequentelements "study-leetcode/leetcode/array/topKFrequentElements"
+import (
+	isanagram "study-leetcode/leetcode/array/242/isAnagram"
+)
 
 func main() {
 	// towsum.Test()
@@ -8,6 +10,7 @@ func main() {
 	// searchInsertPosition.Test()
 	// plusOne.Test()
 	// mergeSortedArray.Test()
-	topkfrequentelements.Test()
+	// topkfrequentelements.Test()
+	isanagram.Test()
 
 }
