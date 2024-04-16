@@ -1,7 +1,7 @@
 package main
 
 import (
-	"study-leetcode/leetcode/sort"
+	hano "study-leetcode/leetcode/hanno"
 )
 
 func main() {
@@ -13,6 +13,7 @@ func main() {
 	// topkfrequentelements.Test()
 	// isanagram.Test()
 	// reversekgroup.Test()
-	sort.Test()
+	// sort.Test()
+	hano.Test()
 
 }
