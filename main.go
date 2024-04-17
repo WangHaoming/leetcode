@@ -1,7 +1,7 @@
 package main
 
 import (
-	hano "study-leetcode/leetcode/hanno"
+	"study-leetcode/leetcode/247/strobogrammatic"
 )
 
 func main() {
@@ -14,6 +14,7 @@ func main() {
 	// isanagram.Test()
 	// reversekgroup.Test()
 	// sort.Test()
-	hano.Test()
+	// hano.Test()
+	strobogrammatic.Test()
 
 }
